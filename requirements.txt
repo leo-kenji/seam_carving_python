@@ -1,0 +1,14 @@
+imageio
+numpy
+scipy
+numba
+
+# App
+pyqtgraph
+PyQt6
+# pyside6
+
+# dev dependencies
+ipykernel
+matplotlib
+pandas
